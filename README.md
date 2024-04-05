@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Szymon Szymczewski</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymczek" alt="szymczek" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymczek" alt="szymczek" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 </p>
 
